@@ -17,3 +17,5 @@ Practise projects for upskilling on data analysis, data science and machine lear
 - [ ] Streamlining Employee Data - Unguided
 - [ ] Analyzing Industry Carbon Emissions - Unguided
 - [ ] Dr. Semmelweis and the Discovery of Handwashing
+
+https://omdena.com/wp-content/uploads/2022/06/datacamp.png
