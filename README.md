@@ -20,5 +20,5 @@ Practise projects for upskilling on data analysis, data science and machine lear
 
 ![IMAGE_DESCRIPTION](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1603223608/DC_New_mugdv8.png)
 
-Credit goes to Datacamp and the instructors for creating these projects for hands-on experience
+### Credit goes to Datacamp and the instructors for creating these projects for hands-on experience:
 https://app.datacamp.com/learn/projects
