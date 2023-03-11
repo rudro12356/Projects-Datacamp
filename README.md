@@ -6,7 +6,14 @@ Practise projects for upskilling on data analysis, data science and machine lear
 ## Projects plan
 - [X] Blood donation - Guided
 - [ ] Classify Song Genres from Audio Data - Guided
+- [ ] Kidney Stones and Simpson's Paradox
 - [ ] ASL Recognition with Deep Learning - Guided
 - [ ] Real-time Insights from Social Media Data - Guided
 - [ ] Comparing Search Interest with Google Trends - Guided
 - [ ] Health Survey Data Analysis of BMI - Guided
+- [ ] Hypothesis Testing with Men's and Women's Soccer Matches - Guided
+- [ ] Exploring the NYC Airbnb Market - Unguided
+- [ ] Customer Analytics: Preparing Data for Modeling - Unguided
+- [ ] Streamlining Employee Data - Unguided
+- [ ] Analyzing Industry Carbon Emissions - Unguided
+- [ ] Dr. Semmelweis and the Discovery of Handwashing
